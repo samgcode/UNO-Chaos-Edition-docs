@@ -1,2 +1,2 @@
 # Index
-### [test](./docs/test)
+### [Test](docs/Test.html)

@@ -1,5 +1,5 @@
 # Test
 
-![[../images/Pasted image 20231004131333.png]]
-s
+![test image](../assets/test-image.png)
 
+s
