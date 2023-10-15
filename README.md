@@ -1,7 +1,7 @@
 # Who's turn is it anyway?
 
 # Introduction
-Who's turn is it anyway? is a card game created with the goal of creating as much chaos as possible. The name comes from the fact that "who's turn is it anyway?" was a quite commonly asked question during initial playtesting. This webpage includes the full in depth rules of the game, however a somewhat abbreviated PDF of the rules, similar to what would normally be included in a card game box, is available here(link pending) #todo.
+Who's turn is it anyway? is a card game created with the goal of creating as much chaos as possible. The name comes from the fact that "who's turn is it anyway?" was a quite commonly asked question during initial playtesting. This webpage includes the full in depth rules of the game, however a somewhat abbreviated PDF of the rules, similar to what would normally be included in a card game box, is available [here](./abbreviated-rules.html).
 
 This website is written entirely with markdown, (essentially formatted plain text), and hosted using github pages. The github repo is publicly available [here](https://github.com/samgcode/UNO-Chaos-Edition-docs) If you have any suggestions, issues, or think something needs more clarification, you can submit a [github issue here](https://github.com/samgcode/UNO-Chaos-Edition-docs/issues), but first check to see that no one has made an issue about that already. If there is an existing issue feel free to leave a comment on it!
 # Index
